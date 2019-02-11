@@ -9,8 +9,8 @@
 
 2.可改变滚动方向。
 
-![dicImg](https://github.com/duyi56432/DYScollTextView/blob/master/效果图上.gif)  
-![dicImg](https://github.com/duyi56432/DYScollTextView/blob/master/效果图下.gif)  
+![dicImg](https://github.com/duyi56432/DYScrollTextView/blob/master/效果图上.gif)  
+![dicImg](https://github.com/duyi56432/DYScrollTextView/blob/master/效果图下.gif)  
 
 ## 博客
 [这里有更详细用法](https://www.jianshu.com/p/35ee79534e07)
@@ -19,7 +19,7 @@
 
 使用 cocoapods
 <pre><code> 
-pod 'DYScollTextView'
+pod 'DYScrollTextView'
 </code></pre>
 
 ## 用法
